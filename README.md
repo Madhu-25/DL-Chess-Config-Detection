@@ -4,6 +4,6 @@ through image classification.
 
 We have about 40,000 training images and 4,000 testing images. There
 is also a CSV file which consists of the FEN of each image in the dataset. The dataset used can be
-found here: AI Crowd Challenge .
+found here: https://www.aicrowd.com/challenges/ai-blitz-6/problems/chess-configuration
 
 A three layer Convolutional Neural Network is used as the model to predict the piece present in the cell.
